@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "files": [
+      "Main.ts",
+      "Player.ts",
+      "Piece.ts",
+      "Pawn.ts",
+      "Rook.ts",
+      "Knight.ts",
+      "Bishop.ts",
+      "Queen.ts",
+      "King.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
